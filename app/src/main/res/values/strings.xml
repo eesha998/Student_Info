@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Student Information System</string>
+    <string name="delete_existing_data">Delete Existing Data</string>
+</resources>
